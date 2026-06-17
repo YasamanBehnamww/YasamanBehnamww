@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi👋
+<div align="center">
+
+<h1>:sparkles: Yasaman Behnam :sparkles:</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&color=F7C948&width=500&lines=Front-End+Developer;YasaWeb" />
+
+</div>
 
 <!--
 **YasamanBehnamww/YasamanBehnamww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
