@@ -1,9 +1,7 @@
 ## Hi👋
 <div align="center">
 
-<h1>:sparkles: Yasaman Behnam :sparkles:</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&color=F7C948&width=500&lines=Front-End+Developer;YasaWeb" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=1500&center=true&vCenter=true&width=850&color=C084FC&lines=Yasaman+Behnam;Front-End+Developer;YasaWeb" />
 
 </div>
 
