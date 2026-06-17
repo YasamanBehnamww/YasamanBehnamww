@@ -1,8 +1,7 @@
 ## Hi👋
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=1500&center=true&vCenter=true&width=850&color=C084FC&lines=Yasaman+Behnam;Front-End+Developer;YasaWeb" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1500&center=true&vCenter=true&width=700&color=C084FC&lines=Yasaman+Behnam;Front-End+Developer;YasaWeb" />
 </div>
 
 <!--
